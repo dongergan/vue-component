@@ -1,3 +1,1 @@
-# Hello VuePress!
-# vue-component
-# vue-component
+# 简易组件
